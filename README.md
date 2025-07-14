@@ -1,2 +1,2 @@
-# AIShool
-Things I learn at AIShool. 
+# SELF STUDY
+Things I learn...
